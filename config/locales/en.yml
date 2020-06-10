@@ -1,0 +1,4 @@
+en:
+  errors:
+    coordinates:
+      blank: Coordinates undefined
